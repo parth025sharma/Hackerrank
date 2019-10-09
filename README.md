@@ -1,2 +1,2 @@
 # Hackerrank
-Problems  I solve On Hackerrank 
+Problems  I solve On Hackerrank by Parth & Priyank
