@@ -16,5 +16,6 @@ while x < N:
 		x=x+1
 	elif pair_list[x]-pair_list[y] > K:
 		y=y+1
-		
+#elif pair_list[x]-pair_list[y] > K:
+		#y=y+1		
 print(total_pairs)
